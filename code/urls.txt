@@ -1,0 +1,13 @@
+http://info.cern.ch/hypertext/WWW/TheProject.html
+http://info.cern.ch/hypertext/WWW/WhatIs.html
+http://info.cern.ch/hypertext/WWW/LineMode/Defaults/QuickGuide.html
+http://info.cern.ch/hypertext/WWW/LineMode/Defaults/Commands.html
+http://info.cern.ch/hypertext/WWW/LineMode/Defaults/SourceExamples.html
+http://info.cern.ch./hypertext/TBL_Disclaimer.html
+http://info.cern.ch./hypertext/Copyright.html
+http://info.cern.ch/hypertext/WWW/Addressing/Addressing.html
+http://info.cern.ch/hypertext/WWW/DesignIssues/Naming.html
+http://info.cern.ch/hypertext/WWW/Status.html
+http://info.cern.ch/hypertext/WWW/MidasWWW/Status.html
+http://info.cern.ch/hypertext/WWW/MidasWWW/Announce1.html
+http://info.cern.ch/hypertext/WWW/FIND/Features.html
